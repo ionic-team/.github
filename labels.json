@@ -8,4 +8,10 @@
   { "name": "duplicate", "description": "Duplicates another existing issue.", "color": "CCCCCC" },
   { "name": "help wanted", "description": "Good candidate for community contribution.", "color": "118572" },
   { "name": "needs: reproduction", "description": "Requires a reliable reproduction to proceed.", "color": "444444" }
+  { "name": "platform: ios", "description": "iOS", "color": "6E32C9" },
+  { "name": "platform: android", "description": "Android", "color": "A97FF0" },
+  { "name": "package: angular", "description": "@ionic/angular package", "color": "DC0030" },
+  { "name": "package: core", "description": "@ionic/core package", "color": "1D76DB" },
+  { "name": "package: react", "description": "@ionic/react package", "color": "6ED3ED" },
+  { "name": "package: vue", "description": "@ionic/vue package", "color": "41B883" },
 ]
