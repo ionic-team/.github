@@ -1,17 +1,65 @@
 [
-  { "name": "triage", "description": "Initial state for new issues awaiting review.", "color": "F5D230" },
-  { "name": "type: bug", "description": "Reproducible defect in the codebase.", "color": "CC2302" },
-  { "name": "type: feature request", "description": "Request for new functionality.", "color": "028199" },
-  { "name": "in progress", "description": "Work has started and is being tracked.", "color": "0E8A16" },
-  { "name": "needs: reply", "description": "Maintainers need more info from the reporter.", "color": "705DFB" },
-  { "name": "wontfix", "description": "Will not be fixed due to scope or decision.", "color": "6A737D" },
-  { "name": "duplicate", "description": "Duplicates another existing issue.", "color": "CCCCCC" },
-  { "name": "help wanted", "description": "Good candidate for community contribution.", "color": "118572" },
-  { "name": "needs: reproduction", "description": "Requires a reliable reproduction to proceed.", "color": "444444" }
+  {
+    "name": "triage",
+    "description": "Initial state for new issues awaiting review.",
+    "color": "F5D230"
+  },
+  {
+    "name": "status: in progress",
+    "description": "Work has started and is being tracked.",
+    "color": "0E8A16"
+  },
+  {
+    "name": "status: backlog",
+    "description": "Work has been validated and has been added to our backlog for upcoming scheduling.",
+    "color": "00cc84"
+  },
+  {
+    "name": "needs: reply",
+    "description": "Maintainers need more info from the reporter.",
+    "color": "705DFB"
+  },
+  {
+    "name": "needs: reproduction",
+    "description": "Requires a reliable reproduction to proceed.",
+    "color": "444444"
+  },
+  {
+    "name": "wontfix",
+    "description": "Will not be fixed due to scope or decision.",
+    "color": "6A737D"
+  },
+  {
+    "name": "duplicate",
+    "description": "Duplicates another existing issue.",
+    "color": "CCCCCC"
+  },
+  {
+    "name": "good first issue",
+    "description": "A good candidate for a contributor who wants to get familiar with the project.",
+    "color": "118572"
+  },
   { "name": "platform: ios", "description": "iOS", "color": "6E32C9" },
   { "name": "platform: android", "description": "Android", "color": "A97FF0" },
-  { "name": "package: angular", "description": "@ionic/angular package", "color": "DC0030" },
-  { "name": "package: core", "description": "@ionic/core package", "color": "1D76DB" },
-  { "name": "package: react", "description": "@ionic/react package", "color": "6ED3ED" },
-  { "name": "package: vue", "description": "@ionic/vue package", "color": "41B883" },
+  { "name": "platform: web", "description": "Web", "color": "120ff0" },
+  {
+    "name": "package: angular",
+    "description": "@ionic/angular package",
+    "color": "DC0030"
+  },
+  {
+    "name": "package: core",
+    "description": "@ionic/core package",
+    "color": "1D76DB"
+  },
+  {
+    "name": "package: react",
+    "description": "@ionic/react package",
+    "color": "6ED3ED"
+  },
+  {
+    "name": "package: vue",
+    "description": "@ionic/vue package",
+    "color": "41B883"
+  }
 ]
