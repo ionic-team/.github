@@ -18,7 +18,7 @@
 <!--- The easier it is to test and validate your pull request, the faster it can be reviewed -->
 
 ## Screenshots / Media
-<!--- Include screenshots, videos or other files relevant to the pull request -->
+<!--- (Optional) Include screenshots, videos or other files relevant to the pull request -->
 
 ## Versions Affected
 - [ ] 7.x
