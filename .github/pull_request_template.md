@@ -20,11 +20,6 @@
 ## Screenshots / Media
 <!--- (Optional) Include screenshots, videos or other files relevant to the pull request -->
 
-## Versions Affected
-- [ ] 7.x
-- [ ] 8.x
-- [ ] 9.x
-
 ## Platforms Affected
 - [ ] Android
 - [ ] iOS
