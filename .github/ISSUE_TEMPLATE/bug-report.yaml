@@ -10,7 +10,7 @@ body:
         ## Thanks for taking the time to fill out this bug report!
         Before creating a bug report, be sure to keep the following points in mind:
         - Search existing reports to make sure there isn't already an existing bug report.
-        - Make sure this is the correct project for your report.  If the report is related to a plugin or Capacitor core, create the bug report on that GitHub project instead.
+        - Make sure this is the correct project for your report. If you’re reporting a bug related to Capacitor or one of its plugins, please confirm that you’re in the appropriate repository before submitting your report.
         - Feel free to chat with us in [discussions](https://github.com/ionic-team/capacitor/discussions) if you are unsure whether something is a bug or feature request.
   - type: textarea
     id: current-behavior
