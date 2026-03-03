@@ -10,8 +10,9 @@ body:
         ## Thanks for your input on enhancements to Capacitor!
         Before creating a feature request, be sure to keep the following points in mind:
         - Search existing feature requests to make sure there isn't already an existing request.
-        - Make sure this is the correct project for your request.  If the request is related to a plugin or Capacitor core, create the request on that relevant GitHub project instead.
+        - Make sure this is the correct project for your feature request. If you’re requesting a feature related to Capacitor or one of its plugins, please confirm that you’re in the appropriate repository before submitting your request.
         - Make sure feature requests are relevant to the goals of the project.  If you are unsure, feel free to chat with us in [discussions](https://github.com/ionic-team/capacitor/discussions).
+        - Try to provide as much information as possible.  Ambiguous or unclear feature requests are unlikely to be accepted.
   - type: textarea
     id: description
     attributes:
