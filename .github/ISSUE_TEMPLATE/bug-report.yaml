@@ -13,9 +13,9 @@ body:
         - Make sure this is the correct project for your report.  If the report is related to a plugin or Capacitor core, create the bug report on that GitHub project instead.
         - Feel free to chat with us in [discussions](https://github.com/ionic-team/capacitor/discussions) if you are unsure whether something is a bug or feature request.
   - type: textarea
-    id: description
+    id: current-behavior
     attributes:
-      label: Description
+      label: Current Behavior
       description: "Give a detailed explanation of the bug you've encountered."
     validations:
       required: true
