@@ -16,7 +16,12 @@ body:
     id: current-behavior
     attributes:
       label: Current Behavior
-      description: "Give a detailed explanation of the bug you've encountered."
+      description: |
+        Give a detailed explanation of the bug you've encountered:
+        - What was the specific command or function call that failed?
+        - Include the exact error message or stack trace (use code blocks!).
+        - How does the actual output differ from the documentation or expected result?
+        - If applicable, mention if this is a regression (did it work in a previous version?).
     validations:
       required: true
   - type: textarea
@@ -54,18 +59,13 @@ body:
       render: Shell
     validations:
       required: true
-  - type: checkboxes
+  - type: input
     id: versions-affected
     attributes:
       label: Versions Affected
-      description: "Check the versions that this bug is related to."
-      options:
-        - label: 7.x
-          required: false
-        - label: 8.x
-          required: false
-        - label: 9.x
-          required: false
+      description: "Indicate the versions that this bug is related to."
+    validations:
+      required: true
   - type: checkboxes
     id: platforms-affected
     attributes:
