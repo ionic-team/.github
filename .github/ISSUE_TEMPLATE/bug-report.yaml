@@ -32,7 +32,7 @@ body:
       label: Reproduction
       description: "Include a link to a minimal test project that demonstrates the bug."
     validations:
-      required: false
+      required: true
   - type: textarea
     id: media
     attributes:
@@ -53,7 +53,7 @@ body:
         pod --version output (iOS Cocoapods issues only):
       render: Shell
     validations:
-      required: false
+      required: true
   - type: checkboxes
     id: versions-affected
     attributes:
