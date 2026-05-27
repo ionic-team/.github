@@ -7,6 +7,7 @@
 - [ ] Refactor
 - [ ] Breaking Change
 - [ ] Documentation
+- [ ] Other (CI, chores, etc.)
 
 ## Rationale / Problems Fixed
 <!--- Give us more information about why you think this PR is needed, or what problems it fixes -->
