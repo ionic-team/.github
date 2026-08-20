@@ -1,7 +1,7 @@
 {
     "name": "Create Release PR",
     "description": "Create Release PR with Release Please",
-    "iconName": "git-merge",
+    "iconName": "octicon git-pull-request",
     "categories": [
         "Node"
     ],
