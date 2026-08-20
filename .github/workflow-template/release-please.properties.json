@@ -1,0 +1,11 @@
+{
+    "name": "Create Release PR",
+    "description": "Create Release PR with Release Please",
+    "iconName": "git-merge",
+    "categories": [
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
