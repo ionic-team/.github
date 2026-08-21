@@ -1,0 +1,11 @@
+{
+    "name": "Release to NPM",
+    "description": "Push to release to NPM ",
+    "iconName": "octicon squirrel",
+    "categories": [
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
