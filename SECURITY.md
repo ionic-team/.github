@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities via email to security@ionic.io.
+Please report security vulnerabilities via email to security@outsystems.com.
